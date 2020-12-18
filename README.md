@@ -1,1 +1,1 @@
-# VoxelCraft
+# VoxelPlay
